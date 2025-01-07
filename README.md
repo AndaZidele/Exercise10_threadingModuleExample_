@@ -1,6 +1,7 @@
 # Exercise10_threadingModuleExample
  
 10. uzd. Write your own example using Python Threading module
+
 Programma izvada, cikos tiks sākta un beigta katra ēdiena pagatavošana.
 
 Pasūtītie ēdieni ir vārdnīcā “mealsDictionary”. Tur ir arī ēdienu pagatavošanas laiki.
